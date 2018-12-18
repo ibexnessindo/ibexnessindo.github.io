@@ -1,0 +1,15 @@
+# Site Settings
+title: IB Exnessindo
+email: ibexnessindo@gmail.com
+description: >
+  www.ibexnessindo.com merupakan ib terbaik untuk broker exness bagi masayarakat Indonesia, yang melayani sejak tahun 2009.
+baseurl: ""
+url: "https://ibexnessindo.github.io"
+twitter_username: ibexnessindo
+github_username:  ibexnessindo
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
