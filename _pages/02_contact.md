@@ -3,7 +3,6 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-## Jam Kerja
 **HARI KERJA**
 
 Senin - Jumat
@@ -11,8 +10,8 @@ Senin - Jumat
 
 **ISTIRAHAT**
 
-- 12.00 - 13.00 WIB (SESI I)
-- 17.00 - 19.00 WIB (SESI II)
+- 12.00 - 13.00 WIB **(SESI I)**
+- 17.00 - 19.00 WIB **(SESI II)**
 
 **Order diatas pukul 21.00 WIB akan diproses hari berikutnya.**
 
