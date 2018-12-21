@@ -21,4 +21,4 @@ Senin - Jumat
 
 **Contact:**
 
-![](http://i65.tinypic.com/bfhlxy.png)
+![](https://lh3.googleusercontent.com/-zbyJvOi5PGU/XB02h9kxsxI/AAAAAAAAABM/YSEanmWw--cJuZ6ZFcnmCtNhbngSgYFcQCLcBGAs/h120/exnessindo-wa.png)
